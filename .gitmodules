@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mapaccuracy"]
+	path = mapaccuracy
+	url = https://github.com/hagc/mapaccuracy
+	shallow = true
+	registered = true
